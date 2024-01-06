@@ -1,6 +1,6 @@
 # Typst-template
 
-日本語でレポートを書く時用のテンプレート
+[Typst](https://github.com/typst/typst)で日本語のレポートを書く時用のテンプレート。フォント設定は游明朝。
 
 [template.typ](template.typ)をインポートし、
 ```typ
