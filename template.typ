@@ -33,7 +33,7 @@
   })
 
   // Main body.
-  set par(justify: true)
+  set par(justify: true, first-line-indent: 1em)
 
   body
 }
